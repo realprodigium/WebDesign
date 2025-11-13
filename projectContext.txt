@@ -1,2 +1,0 @@
-Salud ocupacional y seguridad industrial en el sector manufacturero cervecero artesanal, prevención de riegos laborales por emisiones de dióxido de carbono; aprehensión de un proyecto web que hace parte de un sistema de monitoreo.
-El presente proyecto propone el diseño de una solución web integral basada en principios de Ingeniería Web, integrando Internet de las Cosas (IoT), Machine Learning y servicios web interoperables, para el monitoreo en tiempo real y la predicción de condiciones de riesgo por exposición a CO2 en cervecerías artesanales. 	
